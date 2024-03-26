@@ -1,0 +1,21 @@
+.container{
+display:flex ;
+flex-direction: row;
+}
+
+.Card{
+    margin: 20px 15px 8px 15px;
+    width: 350px;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 5px  #575656;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.bottom{
+    padding: 10px;
+    font-size: 15px;
+}
